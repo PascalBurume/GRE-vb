@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f9dbdbbe-24ad-4c97-94dc-6c50cdcd1619/resourceGroups/GRE/providers/Microsoft.Web/sites/gre-verb",
+    "appService.deploySubpath": "."
+}
