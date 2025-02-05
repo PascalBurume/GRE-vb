@@ -49,6 +49,17 @@ body {
     margin-bottom: 10px;
 }
 
+/* New styling for the Preview Version badge */
+.preview-version {
+    background-color: #ffeb3b;  /* Bright background to grab attention */
+    color: #333;
+    padding: 5px 10px;
+    margin-left: 15px;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
 .emoji {
     font-size: 30px;
     margin-right: 10px;
