@@ -6,7 +6,7 @@ This repository contains a project that integrates Azure AI Foundry with Azure P
 
 ## Features
 
-* **Chatbot Interface**: The chatbot interface is built using Flask for the backend and JavaScript for the frontend.
+* **Chatbot Interface**: The chatbot interface is built using Flask for the backend, CSS, html and JavaScript for the frontend.
 * **Azure Integration**: The project leverages Azure AI Foundry and Azure Prompt to RAG solution for natural language processing and response generation.
 * **User Interaction**: Users can input their text, and the chatbot provides feedback and analysis to help improve their writing.
 * **Deployment**: The project includes GitHub Actions workflows for deploying the application to Azure Web App.
