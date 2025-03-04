@@ -1,4 +1,3 @@
-# Readme
 
 ## Project Overview
 
